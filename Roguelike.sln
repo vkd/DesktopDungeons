@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopDungeons", "DesktopDungeons\DesktopDungeons\DesktopDungeons.csproj", "{58046588-1BA4-4913-9092-E90E2772134C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopDungeonsContent", "DesktopDungeons\DesktopDungeonsContent\DesktopDungeonsContent.contentproj", "{286195EE-E4E5-475F-9F99-0581CD2C6E6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadLocalization", "LoadLocalization\LoadLocalization.csproj", "{CEA1E49B-E513-4D2A-A20D-A197B87D719B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58046588-1BA4-4913-9092-E90E2772134C}.Debug|x86.ActiveCfg = Debug|x86
+		{58046588-1BA4-4913-9092-E90E2772134C}.Debug|x86.Build.0 = Debug|x86
+		{58046588-1BA4-4913-9092-E90E2772134C}.Release|x86.ActiveCfg = Release|x86
+		{58046588-1BA4-4913-9092-E90E2772134C}.Release|x86.Build.0 = Release|x86
+		{286195EE-E4E5-475F-9F99-0581CD2C6E6C}.Debug|x86.ActiveCfg = Debug|x86
+		{286195EE-E4E5-475F-9F99-0581CD2C6E6C}.Release|x86.ActiveCfg = Release|x86
+		{CEA1E49B-E513-4D2A-A20D-A197B87D719B}.Debug|x86.ActiveCfg = Debug|x86
+		{CEA1E49B-E513-4D2A-A20D-A197B87D719B}.Debug|x86.Build.0 = Debug|x86
+		{CEA1E49B-E513-4D2A-A20D-A197B87D719B}.Release|x86.ActiveCfg = Release|x86
+		{CEA1E49B-E513-4D2A-A20D-A197B87D719B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
