@@ -215,7 +215,7 @@ namespace DesktopDungeons
 			GraphicsDevice.Clear(Color.Black);
 
 
-			spriteBatch.Begin(SpriteSortMode.Deferred, BlendState.AlphaBlend, SamplerState.LinearClamp, DepthStencilState.None,
+			spriteBatch.Begin(SpriteSortMode.Deferred, BlendState.AlphaBlend, SamplerState.PointClamp, DepthStencilState.None,
 				RasterizerState.CullCounterClockwise, null, spriteScale);
 
 			io.Draw(spriteBatch);
